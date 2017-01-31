@@ -19,4 +19,6 @@ Going through **Spring Data For Java Developers by Kevin Bowersox** video course
 * spring-data-course-query-method
 * spring-data-course-customize
 * spring-data-course-global-customize
-* 
+* spring-data-course-async-queries
+* spring-data-course-audit
+* spring-data-course-modify-query
