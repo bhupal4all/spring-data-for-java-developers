@@ -12,3 +12,11 @@ Going through **Spring Data For Java Developers by Kevin Bowersox** video course
 * spring-data-course-ordering
 * spring-data-course-limiting
 * spring-data-course-transverse-nested
+* spring-data-course-query
+* spring-data-course-named-query
+* spring-data-course-paging
+* spring-data-course-sorting
+* spring-data-course-query-method
+* spring-data-course-customize
+* spring-data-course-global-customize
+* 
