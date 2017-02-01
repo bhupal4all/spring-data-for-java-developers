@@ -22,3 +22,7 @@ Going through **Spring Data For Java Developers by Kevin Bowersox** video course
 * spring-data-course-async-queries
 * spring-data-course-audit
 * spring-data-course-modify-query
+* spring-course-data-mvc-integration
+* spring-course-data-mvc-domain
+* spring-course-data-mvc-paging
+* spring-course-data-mvc-sorting

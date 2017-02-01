@@ -8,6 +8,9 @@ target/
 .project
 .settings
 .springBeans
+.metadata
+.recommenders
+servers
 
 ### IntelliJ IDEA ###
 .idea
