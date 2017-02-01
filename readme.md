@@ -31,3 +31,9 @@ Going through **Spring Data For Java Developers by Kevin Bowersox** video course
 * spring-data-rest-exploring
 * spring-data-rest-custom-resource
 * spring-data-rest-projection
+
+---
+
+# Practicing
+
+* spring-data-course-native-query
