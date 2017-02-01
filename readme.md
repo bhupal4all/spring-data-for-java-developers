@@ -26,3 +26,8 @@ Going through **Spring Data For Java Developers by Kevin Bowersox** video course
 * spring-course-data-mvc-domain
 * spring-course-data-mvc-paging
 * spring-course-data-mvc-sorting
+* spring-data-rest
+* spring-data-rest-configuration
+* spring-data-rest-exploring
+* spring-data-rest-custom-resource
+* spring-data-rest-projection
